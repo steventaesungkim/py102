@@ -1,5 +1,7 @@
+#Inputting a variable and being processed before printing
+
+#print("EX: (Name)'s favorite subject in school is (subject)!")
 print("Please fill in the blanks below:")
-print("EX: (Name)'s favorite subject in school is (subject)!")
 name = input("What is your name? ")
 name = name.capitalize()
 subject = input("Pick a subject. ")

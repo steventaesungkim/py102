@@ -1,3 +1,5 @@
+#Prints out your name and counts the letter in your name
+
 name = input("what is your name? ".upper())
 print(("hello, " + name + "!").upper())
 print(("your name has " + str(len(name)) + " letters in it! awesome!").upper())
